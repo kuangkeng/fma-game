@@ -3,7 +3,7 @@ var dataset = [
     {
         "id":"scenario-0",
         "text":"<p>Having just turned 18, you can vote for the first time in the upcoming election. You are very active on social media, but you don’t know much about politics and you are unsure that you will even vote. If you do end up voting, it will probably be for the most likable candidate or whoever your friends are voting for. You decide to do a little research on social media about the candidates.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -16,7 +16,7 @@ var dataset = [
     {
         "id":"scenario-A",
         "text":"<p>Hanging out with your friends the next day, you decide to bring up politics to see what their opinions are. Your friend Josh says that he is going to vote for the most popular and likable candidate. Your friend Cindy says that she is going to vote for the candidate who has the best platform and policies.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -29,7 +29,7 @@ var dataset = [
     {
         "id":"scenario-B",
         "text":"<p>After reading about this one candidate you decide to ask your friends Josh and Cindy what they think. Josh says that all that information on the candidate is true and that he is definitely going to be voting for him. CIndy says that you shouldn't get your information from social media blogs.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -42,7 +42,7 @@ var dataset = [
     {
         "id":"scenario-B-2",
         "text":"<p>You decide to not just look on social media for information and you start reading more articles critiquing your candidate. You realize that you don’t agree with some of the candidate's points.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -60,7 +60,7 @@ var dataset = [
     {
         "id":"scenario-A-1",
         "text":"<p>After agreeing with Josh, you decide to join more social media groups dedicated to the popular candidate. You decide to share some of the articles that he found on the page. Without fully reading the articles, you share them. You get a message for Cindy telling you that the articles you are sharing are misinformation and the real story has already been published on reputable news channels. What do you do?</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -73,7 +73,7 @@ var dataset = [
     {
         "id":"scenario-A-2",
         "text":"<p>You decide to look at a few more pages to see if maybe there is information that you might be missing.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -86,7 +86,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1",
         "text":"<p>You and Cindy fight and it gets personal. She decides that she can no longer be friends with you.</p>",
-        "img":"../img/story-0/placeholder-800x600.png",
+        "img":"img/story-0/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -115,7 +115,7 @@ var dataset = [
     {
         "id":"scenario-0",
         "text":"<p>You are a member of a fan social media group for your favorite KPOP group. One day, you log into your account and see that someone has posted slightly political content. You ignore it at first, but it is clear that this is no longer a fan page for your favorite KPOP group, but it is now a propaganda page for a presidential candidate. You are uncomfortable with the group getting political, but you are also uncomfortable about leaving because you have made good friends through the group and this might all be temporary. What do you do?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -128,7 +128,7 @@ var dataset = [
     {
         "id":"scenario-A",
         "text":"<p>A couple days pass and you realize that the group admin has not confronted the people posting. In fact, the group admin has posted something politically charged as well.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -141,7 +141,7 @@ var dataset = [
     {
         "id":"scenario-B",
         "text":"<p>You decide to reach out, and you start crafting your message to the group moderator. What do you say?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -154,7 +154,7 @@ var dataset = [
     {
         "id":"scenario-A-1",
         "text":"<p>After brief research, you decide that it is not worth being left out of the group and decide not to say anything. But then, your friends start to pressure you into joining the political discussion. What do you do?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -167,7 +167,7 @@ var dataset = [
     {
         "id":"scenario-A-2",
         "text":"<p>You send a private message to a couple of  your friends in the group. You ask them if they are ok with all the political posts and whether or not they agree with them. They all send messages back saying that it's about time the group started talking about this political candidate. They are all in favor of it and they fully support the candidate.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -180,7 +180,7 @@ var dataset = [
     {
         "id":"scenario-A-2-1",
         "text":"<p>You decide to look more closely at some of the posts that were shared. What do you look for to see if what they are sharing is misinformation or not?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -193,7 +193,7 @@ var dataset = [
     {
         "id":"scenario-A-2-2",
         "text":"<p>You care about your friends and feel like they are falling into a trap of false information. You decide to read up on the candidate to educate yourself so you can have an informed opinion. What do you look at first?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -206,7 +206,7 @@ var dataset = [
     {
         "id":"scenario-B-1",
         "text":"<p>She says that she understands your point but she isn’t going to do anything about it. What do you do next?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -219,7 +219,7 @@ var dataset = [
     {
         "id":"scenario-B-2",
         "text":"<p>The group moderator agrees with you and agrees to and asks what you want her to do about it. What do you say?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -232,7 +232,7 @@ var dataset = [
     {
         "id":"scenario-B-2-2-1",
         "text":"<p>You realize that leaving the group was the best option. You decide to report the page to social media for spreading misinformation. You don’t want to be a part of the misinformation problem. You have joined a new KPOP fan page and you are loving the energy and you have made new friends who are supportive and positive. All is good.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -243,7 +243,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1",
         "text":"<p>After you share a post, you feel like you have made a mistake. Is having KPOP friends worth getting involved in spreading misinformation? What do you do?</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -256,7 +256,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2",
         "text":"<p>You decide to try changing the subject and continue to ignore pressure from your friends, you stay in the group. Your friends begin to notice that you are not participating in the group chat as much as normal. You want to tell them that it is because you are uncomfortable with how the page has transformed into a political propaganda page.Once you tell your friends that you are uncomfortable with how the page has turned political they start turning on you and tell you that you either get on board or leave the page.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -269,7 +269,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1-2",
         "text":"<p>After you delete the post, your friends notice. They ask you about it and you tell them that you are uncomfortable engaging in the political content they were posting since you don't agree with it and you believe that it is misinformation. They take offense to that and remove you from the group. Some friends they are! However, you join a new KPOP fan club and meet some new friends. It turns out that one of your friends from the old club also felt uncomfortable and left the group. She left the group of her own will once it came out that some members were being investigated for spreading misinformation. You are glad that you deleted your post and you are happy that this new group does not pressure you to spread misinformation.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -280,7 +280,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1-1",
         "text":"<p>Since leaving your post up, the political propaganda has escalated. It is very clear that you need to leave the group. However, you notice when you log into social media that your account has been suspended…</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":1,
         "info":"",
         "optNum":0,
@@ -291,7 +291,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1-1_1",
         "text":"<p>Since you did not remove yourself from the group or report it, your social media account is now being investigated for violating community guidelines. You wish that you had left the group earlier. You did not believe in what they were posting, but because you didn’t speak up or remove yourself from the situation, you are being treated as if you were a part of it.</p>",
-        "img":"../img/story-1/placeholder-800x600.png",
+        "img":"img/story-1/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -318,7 +318,7 @@ var dataset = [
     {
         "id":"scenario-0",
         "text":"<p>You are on a date with Micheal. You are having a really good conversation and are getting along. Even though this is only the second date, you two have a lot in common and they both seem to like each other. However, the conversation starts to become political and Micheal asks you what you think of the upcoming election. You say:</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -331,7 +331,7 @@ var dataset = [
     {
         "id":"scenario-B",
         "text":"<p>Micheal replies saying “Well i definitely know who I am voting for, <b>Ramon Santos</b> has my vote. The golden age of the Philippines was when <b>Santos</b> was in power, we need to get back to that.” Since you are a teacher, you know very well that this is stemming from misinformation. What do you do?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -344,7 +344,7 @@ var dataset = [
     {
         "id":"scenario-B-1",
         "text":"<p>You notice that Micheal starts to get agitated. He fires back saying “Maybe you don’t know the whole truth! I’m from the Northern Luzon area and where I come from, the <b>Santos’s</b> are heroes!” You realize that the date is no longer going well. What do you do?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -357,7 +357,7 @@ var dataset = [
     {
         "id":"scenario-B-1-1",
         "text":"<p>You have decided to leave the date. You tell Micheal that you think that you should grab the bill now and split the cost. You tell him that it was nice meeting him, but unfortunately you don’t see the relationship progressing since you have drastically different views on the matter and you don’t think you can change his mind. You decide it's best not to tell him that it is because his views are entrenched in a historical distortion narrative and he is ignorant about the realities of human rights and economic abuses during the <b>Santos</b> Martial Law era. You return home and realize that a lot of people have not been taught the truth about life during the <b>Santos</b> authoritarian regime. You decide that you are going to include it in the next week’s lesson plan. You never hear from Micheal again.</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -368,7 +368,7 @@ var dataset = [
     {
         "id":"scenario-B-2",
         "text":"<p>Micheal did not like hearing that, and your discussion escalates into an argument. He fires back saying “You don’t know what you’re talking about! You women don’t know anything.” What do you do?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -381,7 +381,7 @@ var dataset = [
     {
         "id":"scenario-A",
         "text":"<p>Micheal says “You shouldn’t be scared of talking about politics! I definitely know who I am voting for, <b>Ramon Santos</b> has my vote. The golden age of the Philippines was when <b>Santos</b> was in power, we need to get back to that!”</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -394,7 +394,7 @@ var dataset = [
     {
         "id":"scenario-A-1",
         "text":"<p>Excited to get another person on board, he says that there was no real poverty during Martial Law and that the Philippines was the richest country in Asia during the <b>Santos</b> regime. He also mentioned that it was a peaceful time without any massacres and the literacy rates have never been as high as they were during that time. What do you think?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -407,7 +407,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1",
         "text":"<p>You can’t believe that you didn’t know all of that. So you ask Micheal how he knows all of this. He says that it’s just common knowledge and everyone that he grew up with feels this way. He says that anyone who thinks differently either does not know the truth or is just lying to themselves.</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -420,7 +420,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2",
         "text":"<p>You know that what he is saying isn’t true. You know from your own education and knowledge from your own family that there was significant violence, the Philippines was never the richest country in Asia, and although there was an increase in poverty after the <b>Santos</b> regime, poverty was already high. You know that what is being said is misinformation. What do you do?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -433,7 +433,7 @@ var dataset = [
     {
         "id":"scenario-B-1-2",
         "text":"<p>After you make an excuse to leave the date, you come home to see that you have a bunch of social media notifications. Micheal has posted a long rant on social media about your date and is saying horrible things about you. You decide that it is just best to report his account and block him before any real damage can be done.</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -444,7 +444,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1-1",
         "text":"<p>The date ends, and when you get home you do some research. You realize that what he was saying were common misconceptions about the <b>Santos</b> regime. When he reaches out to you to ask when you can see each other again, you tell him that you aren’t interested because you don't agree with his political views. At no fault to you, he immediately gets defensive and starts getting angry at you. What do you do?</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -457,7 +457,7 @@ var dataset = [
     {
         "id":"scenario-A-1-1-1-1",
         "text":"<p>You write a long post about misconceptions and disinformation surrounding the <b>Santos</b> era and about your interactions with him. He sees it and writes a long post about you, saying horrible things and posting you personal information. Soon, you start getting threats and harassment. You wish you would have reported and blocked his account when you had the chance. You now know that even though you want to help fight misinformation, the best way to do that is not over social media. Sometimes we want to educate people and tell them they are wrong when we are interacting online. Although there is space for healthy debate, sometimes it is just best to draw a line so that your wellbeing and safety isn't at <a href='https://news.abs-cbn.com/life/07/30/21/have-you-been-doxed-survey-looks-at-exposure-of-personal-data-in-online-dating' target='_blank'>risk</a>.</p>",
-        "img":"../img/story-2/placeholder-800x600.png",
+        "img":"img/story-2/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -484,7 +484,7 @@ var dataset = [
     {
         "id":"scenario-0",
         "text":"<p>You are a travel writer. You love your job but the pandemic has made it difficult for you to find work so you have been doing freelance writing jobs. You answer an ad for a contract freelance content creator position. The hiring manager tells you that you will be making mostly social media posts and you may have to make a few fake accounts to do so. He also mentioned that you will be paid P80,000.00 per month…..and you could really use the cash…What do you do?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -497,7 +497,7 @@ var dataset = [
     {
         "id":"scenario-A",
         "text":"<p>You accept the job. And the first thing they ask you to do is either make several fake social media accounts or make an article bashing the opposition. What do you do first?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -510,7 +510,7 @@ var dataset = [
     {
         "id":"scenario-A-1",
         "text":"<p>Next, your boss wants you to use those profiles and start commenting on posts that critique a political candidate for the upcoming election. He wants you to say whatever you need to say to discredit the poster’s critiques. What do you say?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -523,7 +523,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2",
         "text":"<p>Your posts and comments have gained traction, but not in the way that you intended. Your outlandish claims have managed to create some distrust, yes, but mostly your comments have resonated with a few individuals. These individuals start taking your claims and multiplying them. What do you do?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -536,7 +536,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2-1",
         "text":"<p>Your boss asks you to take on a larger role. He asks you to start posting more stories accusing the opponent of being a terrorist.</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -549,7 +549,7 @@ var dataset = [
     {
         "id":"scenario-B-1",
         "text":"<p>Your fake article has gained a lot of popularity. It has been shared multiple times. Your boss contacts you and tells you that you’ve done a great job and he’s giving you a bonus. He says that he needs to to impersonate a government employee and create posts attacking the journalist who critiques his candidate. What do you do?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -562,7 +562,7 @@ var dataset = [
     {
         "id":"scenario-A-2-2",
         "text":"<p>You decide that you do not want to impersonate anyone online, the fake accounts were bad enough. You tell your boss and he says “Fine, but I’m going to need you to write some more fake articles.” You agree. What is your next article about?</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":1,
@@ -575,7 +575,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2-1",
         "text":"<p>Your articles have spread like wildfire and are all over social media. However, it also attracts the attention of those journalists and news agencies, as well as investigators from the social media platforms. Someone exposes your name, and now you know you are in trouble. How could this have gotten so out of hand? You resign from your job and delete all the fake accounts, posts, and articles that you made. Unfortunately, it is too late because the information is already out on the internet. You wish that you never accepted the job and you are now concerned that someone will sue you for online libel.</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -586,7 +586,7 @@ var dataset = [
     {
         "id":"scenario-A-1-2-1-2",
         "text":"<p>You decide that you should quit this job. It is causing you too much stress to knowingly be a part of the disinformation problem. However, before you can quit, you notice that a number of your accounts have been reported for spreading misinformation. You quickly delete all the others and go dark. A month later, you haven’t heard anything from the social media sites, your boss, or the authorities, however you remain stressed and on edge about your actions. Hopefully you will be able to move on from this.</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
@@ -597,7 +597,7 @@ var dataset = [
     {
         "id":"scenario-B-1-1",
         "text":"<p>You have decided to quit. You immediately go dark and close all the false social media accounts and try to delete as much of your content as possible. You don’t want any of this traced back to you, so that it doesn’t affect your future. You’re glad that you are not a part of the disinformation problem anymore and vow to never be a part of it again. You also make sure to share any tips and tricks for sorting out disinformation and fact-checking to whomever asks you.</p>",
-        "img":"../img/story-3/placeholder-800x600.png",
+        "img":"img/story-3/placeholder-800x600.png",
         "more":0,
         "info":"",
         "optNum":0,
